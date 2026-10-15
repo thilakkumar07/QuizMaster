@@ -1,0 +1,6 @@
+{
+  "name": "My Exam Practice",
+  "description": "Interactive 12-week exam practice quiz app with strict 100% mastery rules, custom question manager, and comprehensive progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
